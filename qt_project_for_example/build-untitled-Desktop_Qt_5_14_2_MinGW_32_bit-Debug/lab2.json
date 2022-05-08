@@ -1,0 +1,4 @@
+[
+        {"id": 1, "name": "Andrew", "sex": 1, "year": 2000},
+        {"id": 2, "name": "Sally", "sex": 0, "year": 1980}
+]

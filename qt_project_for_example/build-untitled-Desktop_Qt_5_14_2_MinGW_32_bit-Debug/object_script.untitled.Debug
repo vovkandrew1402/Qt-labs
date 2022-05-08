@@ -1,0 +1,10 @@
+debug/AbstractReader.o
+debug/CSVReader.o
+debug/CSVWriter.o
+debug/JsonReader.o
+debug/ReaderException.o
+debug/Staffer.o
+debug/main.o
+debug/mainwindow.o
+debug/msgbox.o
+debug/moc_mainwindow.o

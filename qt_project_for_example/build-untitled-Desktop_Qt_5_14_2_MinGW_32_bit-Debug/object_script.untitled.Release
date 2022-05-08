@@ -1,0 +1,10 @@
+release/AbstractReader.o
+release/CSVReader.o
+release/CSVWriter.o
+release/JsonReader.o
+release/ReaderException.o
+release/Staffer.o
+release/main.o
+release/mainwindow.o
+release/msgbox.o
+release/moc_mainwindow.o
